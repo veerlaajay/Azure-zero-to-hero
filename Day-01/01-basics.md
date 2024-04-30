@@ -14,6 +14,8 @@ In essence, cloud computing can involve both third-party providers (public cloud
 
 ## Public Cloud:
 
+Public cloud is a type of computing where resources are offered by a third-party provider via the internet and shared by organizations and individuals who want to use or purchase them.
+
 **Who Uses It:** Everyone, like individuals, businesses, and organizations.
 
 **What It's Like:** Imagine a giant, shared computer space on the internet. It's like using apps, storing files, or doing tasks on the internet that anyone can access.
@@ -22,6 +24,8 @@ In essence, cloud computing can involve both third-party providers (public cloud
 
 ## Private Cloud:
 
+A private cloud is a cloud computing environment dedicated to a single organization. Any cloud infrastructure has underlying compute resources like CPU and storage that you provision on demand through a self-service portal. In a private cloud, all resources are isolated and in the control of one organization.
+
 **Who Uses It:** One specific organization or business.
 
 **What It's Like:** Picture having your own personal, private computer space. It's like a digital clubhouse where only you and your team have access. Others can't just drop in.
@@ -29,6 +33,8 @@ In essence, cloud computing can involve both third-party providers (public cloud
 **Example:** A company using its own server for all its digital needs.
 
 ## Hybrid Cloud:
+
+A hybrid cloud—sometimes called a cloud hybrid—is a computing environment that combines an on-premises datacenter (also called a private cloud) with a public cloud, allowing data and applications to be shared between them.
 
 **Who Uses It:** A mix of everyone, depending on needs.
 
